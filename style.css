@@ -38,4 +38,9 @@ body {
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
+    text-align: center; /* Alinhar o texto ao centro */
+}
+
+.livros-romance .livro {
+    margin: 10px; /* Espaçamento entre os livros */
 }
